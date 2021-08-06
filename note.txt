@@ -1,0 +1,9 @@
+Kubernetes: A container orchestration system
+EKS: Kubernetes as a service
+awscli: a command line tool for interacting with AWS services
+eksctl: a command line tool for creating EKS clusters and their associated services
+kubectl: a command line tool for interfacing with a Kubernetes cluster
+Continuous Delivery: A software deployment practice involving Continuous Integration along with automated deployments
+Continuous Integration: A development practice combining pushing frequent small code changes alone with automated testing and build
+CodePipeline: An AWS service for designing and running continuous delivery pipelines
+CodeBuild: An AWS service for implementing continuous integration
